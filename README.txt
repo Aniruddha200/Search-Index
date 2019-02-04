@@ -26,5 +26,3 @@ search engine such as rank pages and visualize the top pages.
 6. A force.html from Terminal will automatically open to view the results of top pages and how they connected to each other (no. of inbound and outbound links).
 
 ########Instructions########
-
-Enjoy.

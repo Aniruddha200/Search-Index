@@ -1,7 +1,7 @@
 Simple Python Search Spider, Page Ranker, and Visualizer
 
 This is a set of programs that emulate some of the functions of a 
-search engine. 
+search engine such as rank pages and visualize the top pages. 
 
 ########Instructions########
 
@@ -18,7 +18,7 @@ search engine.
 		$I suggest run this file for atleast 50 times, It will ask for no. of iteration.
 
 	>spdump.py
-		$It will ask for whether you want to run it or not, Press 0 if yes or press anything if no, If it runs properly and if brunch of info is showing, then everything is going smoothly.
+		$It will ask for whether you want to run it or not, Press 0 if yes or press anything if no, If it runs properly and if brunch of info is 		showing, then everything is going smoothly.
 
 	>spjson.py
 		$For visualization purpose it will ask no. ranks/ no. top pages. After execute successfully it will ask to open 'force.html'.
